@@ -16,7 +16,7 @@
    <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:100px;" src="https://i.pinimg.com/474x/aa/fb/f3/aafbf37238090a8f6084a8548fad1f0b.jpg?width=676&height=676">
+ <img align="right" alt="Rafa-pic" height="150" style="border-radius:100px;" src="https://i.pinimg.com/564x/d9/5c/3f/d95c3faf0d5ae06b535915040460bfaf.jpg?width=676&height=676">
 </div>
   
   ##
