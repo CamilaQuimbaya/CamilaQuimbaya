@@ -1,5 +1,4 @@
 ## Hi! I'm Camila Quimbaya, Artist and developer!, Reactjs junior developer
-<img align="right" alt="Coding" width="100" src="https://media.tenor.com/3tVyjBgBtaoAAAAC/doraemon-love.gif">
 <div align="center">
   <a href="https://github.com/CamilaQuimbaya">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamilaQuimbaya&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
@@ -24,6 +23,7 @@
   ##
  
 <div> 
+  <img align="left" alt="Coding" width="100" src="https://media.tenor.com/3tVyjBgBtaoAAAAC/doraemon-love.gif">
   <a href="https://www.instagram.com/quiimbaart/" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://www.behance.net/lauracquimbay"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/laura-camila-quimbaya/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
