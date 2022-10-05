@@ -1,4 +1,5 @@
 ## Hi! I'm Camila Quimbaya, Artist and developer!, Reactjs junior developer
+<img align="right" alt="Coding" width="100" src="https://media.tenor.com/3tVyjBgBtaoAAAAC/doraemon-love.gif">
 <div align="center">
   <a href="https://github.com/CamilaQuimbaya">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamilaQuimbaya&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
@@ -17,7 +18,7 @@
    <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
    <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg">
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:100px;" src="https://i.pinimg.com/564x/d9/5c/3f/d95c3faf0d5ae06b535915040460bfaf.jpg?width=676&height=676">
+ <img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/a1/3e/70/a13e700eb28ecec1c2ad4e41081e1743.gif">
 </div>
   
   ##
