@@ -17,13 +17,13 @@
    <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
    <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg">
- <img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/a1/3e/70/a13e700eb28ecec1c2ad4e41081e1743.gif">
+ <img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/6f/b9/74/6fb9743af1895e492bb759e5b42ee4d3.gif">
 </div>
   
   ##
  
 <div> 
-  <img align="left" alt="Coding" width="100" src="https://media.tenor.com/3tVyjBgBtaoAAAAC/doraemon-love.gif">
+  <img align="left" alt="Coding" width="100" src="https://i.pinimg.com/originals/e9/f2/02/e9f202b44d805aac4911a8eaa3e5397e.gif">
   <a href="https://www.instagram.com/quiimbaart/" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://www.behance.net/lauracquimbay"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/laura-camila-quimbaya/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
