@@ -1,4 +1,4 @@
-## Hi! I'm Camila Quimbaya, Artist and developer!, Reactjs, Redux TypeScript developer
+## Hi! I'm Camila Quimbaya, digital artist and frontEnd developer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamilaQuimbaya&count_private=true&theme=radical)
 <div style="display: inline_block"><br>
@@ -23,7 +23,6 @@
  
 <div> 
   <img align="left" alt="Coding" width="100" src="https://media.giphy.com/media/DqBvd3IKURc40jgCdZ/giphy.gif">
-  <a href="https://www.instagram.com/quiimbaart/" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://www.behance.net/lauracquimbay"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/laura-camila-quimbaya/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
