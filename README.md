@@ -1,4 +1,4 @@
-## Hi! I'm Camila Quimbaya, digital artist and frontEnd developer
+## Hi! I'm Camila Quimbaya, Software developer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamilaQuimbaya&count_private=true&theme=radical)
 <div style="display: inline_block"><br>
