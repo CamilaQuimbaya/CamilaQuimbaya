@@ -77,7 +77,17 @@
 
 ---
 
+## 🐱 Mi compañera de código
+
 <div align="center">
+
+<img src="kusumi.png" alt="Kusumi" width="230" />
+
+#### Te presento a **Kusumi** ✦
+
+<sub>Mi mascota y compañera de código — siempre con sus audífonos puestos 🎧💜</sub>
+
+<br/><br/>
 
 ### ✦ stay kawaii · keep coding ✦
 
