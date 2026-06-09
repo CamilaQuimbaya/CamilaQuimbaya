@@ -68,18 +68,19 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamilaQuimbaya&theme=radical" alt="resumen" width="80%" />
+<!-- Resumen general -->
+<img width="78%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamilaQuimbaya&theme=radical" alt="resumen" />
 
-<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CamilaQuimbaya&theme=radical" alt="lenguajes" />
-<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CamilaQuimbaya&theme=radical" alt="commits por lenguaje" />
+<!-- Lenguajes (par parejo) -->
+<img height="192" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CamilaQuimbaya&theme=radical" alt="lenguajes por repo" />
+&nbsp;
+<img height="192" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CamilaQuimbaya&theme=radical" alt="commits por lenguaje" />
 
-<br/>
+<!-- Racha -->
+<img width="78%" src="https://streak-stats.demolab.com?user=CamilaQuimbaya&hide_border=true&background=0a0612&stroke=a855f7&ring=ff4fd8&fire=ff4fd8&currStreakLabel=22d3ee&sideLabels=e0aaff&currStreakNum=ffffff&sideNums=ffffff&dayLabels=e0aaff&dates=8a7a9a" alt="racha" />
 
-<img src="https://streak-stats.demolab.com?user=CamilaQuimbaya&hide_border=true&background=0a0612&stroke=a855f7&ring=ff4fd8&fire=ff4fd8&currStreakLabel=22d3ee&sideLabels=e0aaff&currStreakNum=ffffff&sideNums=ffffff&dayLabels=e0aaff&dates=8a7a9a" alt="streak" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=CamilaQuimbaya&bg_color=0a0612&color=ff4fd8&line=a855f7&point=22d3ee&area=true&hide_border=true&radius=16" alt="grafico de actividad" />
+<!-- Actividad -->
+<img width="78%" src="https://github-readme-activity-graph.vercel.app/graph?username=CamilaQuimbaya&bg_color=0a0612&color=ff4fd8&line=a855f7&point=22d3ee&area=true&hide_border=true&radius=16" alt="grafico de actividad" />
 
 </div>
 
