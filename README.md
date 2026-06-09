@@ -19,6 +19,8 @@
 
 ## ✦ Sobre mí
 
+<img align="right" width="190" src="kusumi.png" alt="Kusumi" />
+
 🌸 Desarrolladora **Full Stack** y **Tech Lead**, diseñadora **UX/UI** y **profesora de programación**.
 
 💜 Me obsesiona el punto exacto donde el código limpio se encuentra con un diseño que enamora.
@@ -77,17 +79,7 @@
 
 ---
 
-## 🐱 Mi compañera de código
-
 <div align="center">
-
-<img src="kusumi.png" alt="Kusumi" width="230" />
-
-#### Te presento a **Kusumi** ✦
-
-<sub>Mi mascota y compañera de código — siempre con sus audífonos puestos 🎧💜</sub>
-
-<br/><br/>
 
 ### ✦ stay kawaii · keep coding ✦
 
